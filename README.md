@@ -1,12 +1,11 @@
-# Hi, I'm Shaowei 👋
-
+## Hi, I'm Shaowei 👋
 Android engineer focused on **Modern Android Development (MAD)**, **video playback**.
 
 I build Android products with a strong emphasis on **real-world video streaming scenarios**
 and **data-informed decision making** — connecting user behavior signals with product iteration.
 
 
-## What I Do
+### What I Do
 
 - 🧱 Build Android apps with **Modern Android Development (MAD)**, balancing user experience and engineering quality
 - 📊 Use **user behavior data** to understand how features are actually used and
@@ -16,7 +15,7 @@ and **data-informed decision making** — connecting user behavior signals with 
   (custom playback flows, streaming support, performance & stability tuning)
   
 
-## Tech Stack
+### Tech Stack
 
 - **Android**: Kotlin, Jetpack Compose, Coroutines / Flow, Hilt  
 - **Architecture**: MVVM, unidirectional data flow, modularization  
@@ -24,5 +23,5 @@ and **data-informed decision making** — connecting user behavior signals with 
 - **Video**: ExoPlayer, Media3, HLS / DASH  
 
 
-## Contact
+### Contact
 - 📧 Email: shaowei7.chang@gmail.com
